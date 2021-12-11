@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about HTML
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also a Minecraft 
+- ⚡ Fun fact: I am also a Minecraft player
