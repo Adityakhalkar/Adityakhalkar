@@ -1,4 +1,4 @@
-![calm](https://images.app.goo.gl/tdbkVbYkbNeh4aZ1A)
+![calm](chacha.png)
 ### Hi there, Aditya Here 👋
 - 🔭 I’m currently studying 😢
 - 🌱 I’m currently learning Java
