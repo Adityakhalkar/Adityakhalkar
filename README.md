@@ -9,3 +9,4 @@
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar)](https://github.com/Adityakhalkar/github-readme-stats)
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar&theme=dark&show_icons=true)
