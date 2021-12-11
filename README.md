@@ -5,3 +5,5 @@
 - 💬 Ask me about HTML
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a Minecraft player
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar)](https://github.com/Adityakhalkar/github-readme-stats)
+
