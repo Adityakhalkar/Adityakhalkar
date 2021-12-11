@@ -6,7 +6,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a Minecraft player
 
-
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar)](https://github.com/Adityakhalkar/github-readme-stats)
-
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar&theme=dark&show_icons=true)
+### Languages
+<img align="left" alt="Javascript" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="PHP" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
