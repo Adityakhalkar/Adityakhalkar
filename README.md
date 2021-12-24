@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about HTML
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also a Minecraft player
+- ⚡ Fun fact: I am also trying to Crack JEE
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar&theme=dark&show_icons=true)
 ### Languages
