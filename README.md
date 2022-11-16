@@ -1,10 +1,9 @@
 ![image](https://user-images.githubusercontent.com/67951994/145676143-f6b64b4b-f472-4ad6-b880-140eddd858bf.png)
 ### Hi there, Aditya Here 👋
 - 🔭 I’m currently studying 
-- 🌱 I’m currently learning Java
-- 💬 Ask me about HTML
+- 🌱 I’m currently learning C
+- 💬 Ask me about HTML/CSS
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also trying to Crack JEE
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar&theme=dark&show_icons=true)
 ### Languages
