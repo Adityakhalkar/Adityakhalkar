@@ -1,9 +1,10 @@
 ![image](https://user-images.githubusercontent.com/67951994/145676143-f6b64b4b-f472-4ad6-b880-140eddd858bf.png)
 ### Hi there, Aditya Here 👋
-- 🔭 I’m currently studying 
-- 🌱 I’m currently learning C
-- 💬 Ask me about HTML/CSS
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently studying about Artificial Intelligence and Data Science.
+- 🎓 Studying at DYPIT.
+- 🌱 I’m currently learning C.
+- 💬 Ask me about HTML/CSS.
+- 😄 Pronouns: He/Him.
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar&theme=dark&show_icons=true)
 ### Languages
