@@ -2,7 +2,7 @@
 ### Hi there, Aditya Here 👋
 - 🔭 I’m currently studying about Artificial Intelligence and Data Science.
 - 🎓 Studying at DYPIT.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Python.
 - 💬 Ask me about HTML/CSS.
 - 😄 Pronouns: He/Him.
 
