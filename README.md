@@ -11,3 +11,4 @@
 <img align="left" alt="Javascript" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="PHP" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+<img align="left" alt="Python" width="48px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
