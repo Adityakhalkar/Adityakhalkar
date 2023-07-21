@@ -6,7 +6,6 @@
 - 💬 Ask me about HTML/CSS.
 - 😄 Pronouns: He/Him.
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakhalkar&theme=dark&show_icons=true)
 ### Languages
 <img align="left" alt="Javascript" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
