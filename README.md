@@ -1,5 +1,4 @@
-![image](https://github.com/Adityakhalkar/Adityakhalkar/assets/67951994/7a010e50-3605-4482-b742-a55e336de174)
-
+![image](https://user-images.githubusercontent.com/67951994/145676143-f6b64b4b-f472-4ad6-b880-140eddd858bf.png)
 <h1 align="center">Hi 👋, I'm Aditya Khalkar</h1>
 <h3 align="center">Believed in something, hoping to get it correct!</h3>
 
