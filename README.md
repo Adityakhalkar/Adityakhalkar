@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Adityakhalkar/Adityakhalkar/assets/67951994/e7b3a8ec-98da-4a72-9cb1-9396667104a8" alt="animated" />
+</p>
 <h1 align="center">Hi 👋, I'm Aditya Khalkar</h1>
 <h3 align="center">Believed in something, hoping to get it correct!</h3>
 
