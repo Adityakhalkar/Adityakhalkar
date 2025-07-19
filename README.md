@@ -19,6 +19,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakhalkar&show_icons=true&locale=en&layout=compact" alt="adityakhalkar" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakhalkar&show_icons=true&locale=en" alt="adityakhalkar" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhalkar&" alt="adityakhalkar" /></p>
